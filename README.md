@@ -10,14 +10,13 @@ Pure CLI based tool which simplifies the installation and configuration of Snort
 - Node v22.x or higher
 
 ## Installation
-1. Clone this repository: 
-git clone https://github.com/jackjeevan/Easy-Snort.git
+1. Clone this repository: git clone https://github.com/jackjeevan/Easy-Snort.git
 
-cd Easy-Snort
+2. Change to directory scope: cd Easy-Snort
 
-npm install
+3. Install necessary node packages: npm install
 
-node . / node index.js
+4. Run: node . / node index.js
 
 ## Working
 - Choose the options shown through arrow keys and Enter with selection

@@ -1,0 +1,1 @@
+drop tcp any any -> any 21 (msg:"Blocking FTP"; sid:10002; rev:1;)

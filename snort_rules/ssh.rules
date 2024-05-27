@@ -1,0 +1,1 @@
+drop tcp any any -> any 22 (msg:"Blocking SSH"; sid:10003; rev:1;)

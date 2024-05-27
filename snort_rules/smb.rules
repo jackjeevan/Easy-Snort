@@ -1,0 +1,2 @@
+drop tcp any any -> any 139 (msg:"Blocking SMB"; sid:10004; rev:1;)
+drop tcp any any -> any 445 (msg:"Blocking SMB"; sid:10005; rev:1;)
